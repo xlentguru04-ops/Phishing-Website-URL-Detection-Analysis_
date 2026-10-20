@@ -28,10 +28,15 @@ The dataset contains URL characteristics, domain information, HTTPS details, web
 
 ## 📂 Dataset Information
 
+## 📂 Dataset Information
+
 - **Dataset Name:** PhiUSIIL Phishing URL Dataset
-- **Original Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset)
 - **Original Dataset Size:** 235,795 rows and 55 columns
+- **Dataset Used for Analysis:** 49,999 rows and 56 columns
 - **Target Column:** `label`
+- **Dataset Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset)
+
+The original dataset was obtained from the UCI Machine Learning Repository. A subset of the data is used for this project’s exploratory data analysis.
 
 ## 📊 Expected Outcome
 
